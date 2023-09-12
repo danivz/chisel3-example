@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Sep 12 09:01:06 2023
+[*]
+[dumpfile] "/home/dani/work/examples-chisel/FF_rv/test_run_dir/FF_rv_should_pass/FF_rv.vcd"
+[dumpfile_mtime] "Tue Sep 12 08:57:28 2023"
+[dumpfile_size] 3804
+[savefile] "/home/dani/work/examples-chisel/FF_rv/FF_rv_signals.gtkw"
+[timestart] 0
+[size] 1858 1016
+[pos] -1909 -24
+*-6.180550 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 280
+@28
+FF_rv.clock
+FF_rv.reset
+@200
+-
+@24
+FF_rv.io_din_bits[31:0]
+@28
+FF_rv.io_din_valid
+FF_rv.io_din_ready
+@200
+-
+@24
+FF_rv.io_dout_bits[31:0]
+@28
+FF_rv.io_dout_valid
+FF_rv.io_dout_ready
+@200
+-
+@25
+FF_rv.data_0[31:0]
+FF_rv.data_1[31:0]
+@28
+FF_rv.valid_0
+FF_rv.valid_1
+FF_rv.areg
+FF_rv.vaux
+[pattern_trace] 1
+[pattern_trace] 0
